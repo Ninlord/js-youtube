@@ -1,2 +1,1 @@
-console.log("tanayTanay
-    ")
+console.log("Tanay")
